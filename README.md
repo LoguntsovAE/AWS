@@ -1,1 +1,2 @@
 # Deploying a Flask and React Microservice to AWS ECS. The second connection test
+https://codebuild.us-east-2.amazonaws.com/badges?uuid=eyJlbmNyeXB0ZWREYXRhIjoick0wSTNqZHVxT1FvaXB0U0lXZVc0OHNmdlVIblpoU0FTVWRFMDJlUXdMNVdLaDN0dmt6OTZ0SCszOVNCZFJTWVpMckZnYTlXRk0zbWJ2VVZlMEhOVXVJPSIsIml2UGFyYW1ldGVyU3BlYyI6IllGcWxhcUt6MGlCRjlONlAiLCJtYXRlcmlhbFNldFNlcmlhbCI6MX0%3D&branch=main
